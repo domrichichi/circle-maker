@@ -1,1 +1,1 @@
-var $ball =
+var ball = $('.ball');
